@@ -1,0 +1,24 @@
+@media (max-with:1100px) {
+    .hero {
+        height: auto;
+    }
+
+    .hero__content {
+        flex-wrap: wrap;
+    }
+
+    .hero__desc {
+        margin: 0 auto;
+    }
+
+    .hero__umg-wrap {
+        width: 569px;
+        height: 593px;
+    }
+
+    .hero__img {
+        flex-shrink: 0;
+    }
+
+
+}
